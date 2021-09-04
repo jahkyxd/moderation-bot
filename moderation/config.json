@@ -1,0 +1,76 @@
+{
+    "bot": {
+        "token": "",
+        "owner": "618444525727383592",
+        "prefix": "."
+    },
+    "penals": {
+        "ban": {
+            "staff": "835518990427881518",
+            "log": "835518993947295793",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "835518990427881516",
+            "roles": "835518990351990861",
+            "log": "835518993947295792",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "835518990427881520",
+            "roles": "835518990351990863",
+            "log": "835518993947295791",
+            "limit": 5
+        },
+      "points": {
+        "mutepoints": "10",
+        "banpoints": "30",
+        "jailpoints": "20"
+      }
+    },
+    "logs": {
+        "messagelog": "835518993947295787",
+        "voicelog": "835518993947295788",
+        "taglog": "873153901958942760"
+
+    },
+    "roles": {
+        "boosterrole": "873150317682888725",
+        "viprole": "873150315992588329",
+        "designerrole": "873150316344930324",
+        "musiciansrole": "873150316458156043",
+        "ekip": "873153796916776970"
+    },
+    "meeting": {
+        "katıldı": "873150317913575434",
+        "yetkili": "873150977115562014",
+        "meetingchannel": "873135824705835039"
+    },
+    "channels": {
+        "chat": "874234437481676800",
+        "voicechannel": "861937764881661982",
+        "welcomechannel": "835518990805762089",
+        "taglog": "tag log",
+        "rules": "835518990805762096"
+    },
+    "parents": {
+        "publicparents": "835518992088956955"
+    },
+    "registration": {
+        "unregistered": "835518990351990860",
+        "man": ["835518990390263815"],
+        "woman": ["835518990390263816"],
+        "staff": "835518990427881521",
+        "GuilDTag": "tag",
+        "autonickname": "İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "835518990351990862",
+        "susoeciosnickname": "Şüpheli | Hesap",
+        "oneman": "835518990390263815",
+        "onewoman": "835518990390263816"
+    },
+    "Guild": {
+        "GuildID": "835518990351990854",
+        "GuilDName": "Rylie"
+    }
+}
