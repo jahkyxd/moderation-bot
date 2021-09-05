@@ -1,5 +1,5 @@
 module.exports = {
-    name: "kilitaç",
+    name: "kilit",
     aliases: [],
     run: async (client, message, args) => {
         if (!message.member.permissions.has("MANAGE_MESSAGES")) return message.channel.send(`Bu komutu kullanabilmek için öncelikle gerekli yetkin olmalı.`);
