@@ -74,7 +74,7 @@ client.on('message', message => {
         .setAuthor(message.member.displayName, message.author.avatarURL({ dynamic: true, size: 2048 }))
         .setFooter("Developed by Jahky", owner.avatarURL({ dynamic: true }))
     if (!cmd) return;
-    cmd.execute(client, message, args, embed);
+    cmd.run(client, message, args, embed);
 })
 
 client.on("guildBanRemove", function (guild, user) {
