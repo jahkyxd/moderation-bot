@@ -1,6 +1,6 @@
 const { Client, MessageEmbed, Collection } = require("discord.js");
 const Discord = require("discord.js");
-const client = new Client
+const client = new Client()
 const { readdirSync } = require("fs");
 const config = require("./config.json");
 const db = require("quick.db");
